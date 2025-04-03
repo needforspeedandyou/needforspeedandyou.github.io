@@ -65,7 +65,7 @@ body {
     width: 300px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
     .open {
         width: 100vw;
         top: 0vh;
